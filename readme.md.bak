@@ -1,3 +1,7 @@
 #Hi am in local 
 #changes is done by master rep
-#hello tuesday
+<<<<<<< HEAD
+#hello thursday
+=======
+thurday in master repository
+>>>>>>> 16838ce02911a1c030e228adcb2ccfc78679585b
